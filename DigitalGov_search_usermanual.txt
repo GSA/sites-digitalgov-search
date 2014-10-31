@@ -1,6 +1,7 @@
 Intro
 ** We have good news for those of you want to improve your site search. 
 ** We implemented a plugin to provide you to boost your site's search visibility if your site is running under the sites.usa.gov
+** This is Wordpress multi-site only plugin
 
 Step 1: Requirement
 ** You have a site administrator role and know about Wordpress administration such as plugin and theme configuration.
