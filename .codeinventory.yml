@@ -1,0 +1,12 @@
+name: Sites-DigitalGov-Search
+description: 'A plugin for connecting a site''s search box within the multisite implementation of Sites.USA.gov to the DigitalGov Search system'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - search
+    - website
+contact:
+    email: dawn.mccleskey@gsa.gov
